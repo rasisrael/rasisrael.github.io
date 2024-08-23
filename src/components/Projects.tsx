@@ -14,6 +14,7 @@ const Projects: React.FC = () => {
                 <div className="card-body">
                     <h5 className="card-title">Medical Booking System</h5>
                     <p className="card-text">Developed using React, Node.JS & MySQL.</p>
+                    <a href="https://github.com/rasisrael/MedAppSys">View on GitHub</a>
                 </div>
             </div>
         </section>
